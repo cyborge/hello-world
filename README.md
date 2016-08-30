@@ -1,5 +1,5 @@
 # hello-world
-Familiarize myself with github.com
-This is my branch, there are many like it but, this one is mine!
+Matthew Borge (AKA CyBorge - A nickname that stuck with me) is a Systems Engineer and just enough of a "Hack" to be dangerous.
+I plan to do a thing and now github is my faciliator.
 
-I've now added comments.
+
